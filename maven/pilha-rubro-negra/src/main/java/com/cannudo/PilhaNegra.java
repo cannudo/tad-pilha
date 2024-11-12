@@ -1,3 +1,5 @@
+package com.cannudo;
+
 public class PilhaNegra implements PilhaInterface {
     private int tamanho, top_index;
     public Object[] pilha;

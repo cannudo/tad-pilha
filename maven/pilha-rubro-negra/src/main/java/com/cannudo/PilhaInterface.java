@@ -1,3 +1,5 @@
+package com.cannudo;
+
 public interface PilhaInterface {        
     /*
      * size(): @return número de elementos empilhados;

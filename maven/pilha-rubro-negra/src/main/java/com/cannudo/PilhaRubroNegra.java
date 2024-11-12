@@ -1,3 +1,5 @@
+package com.cannudo;
+
 public class PilhaRubroNegra {
     private int capacidade, topIndexNegro, topIndexRubro;
     private String[] pilha;
